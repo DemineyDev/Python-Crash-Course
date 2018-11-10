@@ -1,0 +1,5 @@
+With Python you can write scripts
+With Python you can do web development
+With Python you can create games
+With Python you can do machine learning
+With Python you can do Data Science
